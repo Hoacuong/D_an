@@ -742,7 +742,7 @@
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/com/hbh/icon/hbh.png"/>
+              <Image iconType="2" name="D:\poly\D_an\src\com\hbh\icon\hbh.png"/>
             </Property>
           </Properties>
         </Component>

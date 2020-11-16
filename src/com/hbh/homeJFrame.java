@@ -482,7 +482,7 @@ public class homeJFrame extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/hbh/icon/hbh.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("D:\\poly\\D_an\\src\\com\\hbh\\icon\\hbh.png")); // NOI18N
 
         lblTenCuaHang.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         lblTenCuaHang.setText("HBH Showroom");
